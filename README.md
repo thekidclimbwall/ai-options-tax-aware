@@ -36,7 +36,7 @@ Simply describe your financial situation in plain English and get:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/thekidclimbwall/ai-covered-put-tax-aware.git
+   git clone https://github.com/thekidclimbwall/ai-options-tax-aware.git
    cd ai-options-tax-aware
    ```
 
