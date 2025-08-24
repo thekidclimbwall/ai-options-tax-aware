@@ -6,6 +6,24 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 
+
+## TL,DR:
+### App Screenshot
+
+
+![AI Options Strategy Assistant App Screenshot](.app-screenshot.jpg)
+```
+
+---
+
+### Backtesting Simulation Results
+
+To validate the core premise—that a tax-aware, rules-based options strategy can deliver superior risk-adjusted returns—I developed and ran a simulation engine from January 2022 to December 2024. The backtest demonstrates that the strategy **outperformed the S&P 500 (SPY) benchmark** while exhibiting a **significantly lower maximum drawdown**.
+
+![Backtesting Performance Results](.demo_results.jpg)
+
+
+
 ## Table of Contents
 
 - [Vision & Purpose](#vision--purpose)
@@ -50,11 +68,11 @@ This project explores the intersection of **artificial intelligence**, **natural
 
 ## Quick Start
 
-### One-Command Setup (All API Keys Pre-Configured!)
+### One-Command Setup (All API Keys Pre-Configured except Optional OpenAI API!)
 
 ```bash
 # Clone and run immediately  
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/thekidclimbwall/ai-options-tax-aware.git)
 cd ai-options-tax-aware
 python setup.py
 ```
