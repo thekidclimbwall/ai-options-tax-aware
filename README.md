@@ -9,13 +9,13 @@
 
 ## TL,DR:
 ### App Screenshot
-![App Screenshot](app-screenshot.jpg)
+![App Screenshot](app-screenshot.png)
 
 ### Backtesting Simulation Results
 
 To validate the core premise—that a tax-aware, rules-based options strategy can deliver superior risk-adjusted returns—I developed and ran a simulation engine from January 2022 to December 2024. The backtest demonstrates that the strategy **outperformed the S&P 500 (SPY) benchmark** while exhibiting a **significantly lower maximum drawdown**.
 
-![Backtesting Performance Results](demo_results.jpg)
+![Backtesting Performance Results](demo_results.png)
 
 ---
 
