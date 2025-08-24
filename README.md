@@ -200,35 +200,3 @@ streamlit run interactive_app.py
 ```bash
 python -m pytest tests/  # When tests are added
 ```
-
-### Contributing
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🤝 Support
-
-- **Issues:** Report bugs via GitHub Issues
-- **Discussions:** Use GitHub Discussions for questions
-- **Documentation:** This README and inline code comments
-
-## 🌟 Acknowledgments
-
-- **Data Sources:** Yahoo Finance, Polygon.io
-- **AI Integration:** OpenAI GPT models
-- **Framework:** Streamlit for the web interface
-- **Calculations:** Black-Scholes options pricing model
-
----
-
-**⚡ Ready to get started?** Clone the repo and run `streamlit run simple_app.py`
-
-**💡 Need help?** Check the issues page or start a discussion
-
-**🎯 Want to contribute?** PRs welcome!
